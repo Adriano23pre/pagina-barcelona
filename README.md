@@ -4,60 +4,7 @@ Tácticas de juego del FC Barcelona
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Tácticas de Juego del FC Barcelona</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 0;
-            background-color: #f2f2f2;
-            line-height: 1.6;
-        }
-        header {
-            background: linear-gradient(90deg, #004d98, #a50044);
-            color: white;
-            padding: 35px;
-            text-align: center;
-        }
-        nav {
-            background-color: #004d98;
-            padding: 12px;
-            text-align: center;
-        }
-        nav a {
-            color: #ffcb05;
-            margin: 0 15px;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        section {
-            background: white;
-            margin: 20px;
-            padding: 25px;
-            border-radius: 10px;
-        }
-        h2 {
-            color: #a50044;
-        }
-        img {
-            width: 100%;
-            max-width: 900px;
-            display: block;
-            margin: 15px auto;
-            border-radius: 8px;
-        }
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 15px;
-        }
-        footer {
-            background-color: #004d98;
-            color: white;
-            text-align: center;
-            padding: 18px;
-        }
-    </style>
+   
 </head>
 <body>
 
