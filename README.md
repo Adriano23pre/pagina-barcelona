@@ -27,7 +27,7 @@ Tácticas de juego del FC Barcelona
         El FC Barcelona ha desarrollado un estilo de juego basado en la posesión del balón,
         el pase corto y la inteligencia colectiva, siendo referente del fútbol mundial.
     </p>
-    <img https://share.google/S1FAXufXJ4BxhfowF
+    <img
 </section>
 
 <section id="principios">
