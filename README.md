@@ -1,71 +1,131 @@
-# pagina-barcelona
-Tácticas de juego del FC Barcelona
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-   
+    <title>Tácticas de Juego del FC Barcelona</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            background-color: #f2f2f2;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(90deg, #004d98, #a50044);
+            color: white;
+            padding: 35px;
+            text-align: center;
+        }
+        nav {
+            background-color: #004d98;
+            padding: 12px;
+            text-align: center;
+        }
+        nav a {
+            color: #ffcb05;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            background: white;
+            margin: 20px;
+            padding: 25px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #a50044;
+        }
+        img {
+            display: block;
+            width: 100%;
+            max-width: 900px;
+            margin: 15px auto;
+            border-radius: 8px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        footer {
+            background-color: #004d98;
+            color: white;
+            text-align: center;
+            padding: 18px;
+        }
+    </style>
 </head>
+
 <body>
 
 <header>
     <h1>Tácticas de Juego del FC Barcelona</h1>
-    <p>Modelo táctico, identidad y estilo de juego azulgrana</p>
+    <p>Identidad, estrategia y modelo táctico del club azulgrana</p>
 </header>
 
 <nav>
     <a href="#historia">Historia</a>
     <a href="#principios">Principios</a>
-    <a href="#sistema">Sistema</a>
+    <a href="#sistema">Sistema 4-3-3</a>
     <a href="#impacto">Impacto</a>
     <a href="#galeria">Galería</a>
 </nav>
 
 <section id="historia">
-    <h2>Historia táctica</h2>
+    <h2>Historia táctica del FC Barcelona</h2>
     <p>
-        El FC Barcelona ha desarrollado un estilo de juego basado en la posesión del balón,
-        el pase corto y la inteligencia colectiva, siendo referente del fútbol mundial.
+        El FC Barcelona ha desarrollado una identidad futbolística basada en la posesión del balón,
+        el pase corto y la inteligencia colectiva. Este estilo se consolidó como un modelo de
+        referencia en el fútbol mundial.
     </p>
-    <img src="https://www.fcbarcelona.es/es/noticias/4393980/el-primer-equipo-de-futbol-masculino-vuelve-al-spotify-camp-nou-con-un-entrenamiento-a-puertas-abiertas" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Camp_Nou_aerial_%28cropped%29.jpg/1024px-Camp_Nou_aerial_%28cropped%29.jpg" alt="Estadio Camp Nou">
 </section>
 
 <section id="principios">
-    <h2>Principios de juego</h2>
+    <h2>Principios tácticos fundamentales</h2>
     <ul>
         <li>Juego de posición</li>
         <li>Presión alta tras pérdida</li>
-        <li>Salida de balón desde defensa</li>
+        <li>Salida limpia desde la defensa</li>
         <li>Control del ritmo del partido</li>
     </ul>
-    <img scr="https://sportsposterwarehouse.com/products/fc-barcelona-official-team-portrait-2011-12-poster-g-e-spain" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Barcelona_team_2011.jpg/1024px-FC_Barcelona_team_2011.jpg" alt="Equipo FC Barcelona">
 </section>
 
 <section id="sistema">
-    <h2>Sistema táctico 4-3-3</h2>
+    <h2>Sistema de juego 4-3-3</h2>
     <p>
-        El sistema 4-3-3 permite amplitud ofensiva, equilibrio defensivo y dominio del mediocampo.
+        El sistema 4-3-3 permite al Barcelona dominar el mediocampo, generar amplitud ofensiva
+        y mantener equilibrio defensivo, siendo la base de su éxito táctico.
     </p>
-    <img scr="http://sharemytactics.com/124182/F.-C.-Barcelona-433" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Football_Formation_4-3-3.svg/800px-Football_Formation_4-3-3.svg.png" alt="Sistema 4-3-3">
 </section>
 
 <section id="impacto">
     <h2>Impacto en el fútbol moderno</h2>
     <p>
-        El estilo del Barcelona ha influenciado a clubes y selecciones de todo el mundo.
+        El modelo táctico del FC Barcelona ha influenciado a clubes y selecciones de todo el mundo,
+        demostrando que la técnica, la disciplina y el trabajo colectivo son claves del éxito.
     </p>
-    <img src="https://barcaacademy.fcbarcelona.es/es/noticias/4203210/la-tercera-edicion-del-training-camp-ya-ha-comenzado" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/La_Masia_training.jpg/1024px-La_Masia_training.jpg" alt="Entrenamiento en La Masía">
 </section>
 
 <section id="galeria">
-    <h2>Galería del FC Barcelona</h2>
+    <h2>Galería táctica del FC Barcelona (10 imágenes)</h2>
     <div class="gallery">
-        <img scr="https://www.fcbarcelona.es/es/noticias/4354446/los-dorsales-del-primer-equipo-202526-confirmados" />
-        <img scr="https://www.clipartmax.com/middle/m2H7K9b1b1m2m2d3_escudo-del-barca-barcelona-png/" />
-        <img scr="https://madrid-shop.com/blog/que-es-el-campo-de-entrenamiento-del-fc-barcelona%EF%BC%9F/" />
-        <img scr="https://entrenadorfutbol.es/metodologica-del-programa-de-formacion-del-barcelona-f-c/" />
-        <img scr="https://commons.wikimedia.org/wiki/File:Football_pitch_small.png" />
-        <img scr="https://www.fcbarcelona.es/es/noticias/4426210/ultima-sesion-del-ano-pensando-en-el-primer-reto-de-2026" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FC_Barcelona_badge.svg/600px-FC_Barcelona_badge.svg.png" alt="Escudo FC Barcelona">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Camp_Nou_aerial_%28cropped%29.jpg/800px-Camp_Nou_aerial_%28cropped%29.jpg" alt="Camp Nou">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Barcelona_team_2011.jpg/800px-FC_Barcelona_team_2011.jpg" alt="Equipo Barcelona">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/La_Masia_training.jpg/800px-La_Masia_training.jpg" alt="La Masía">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FC_Barcelona_players_training.jpg/800px-FC_Barcelona_players_training.jpg" alt="Entrenamiento Barcelona">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Barcelona_passing_network.jpg/800px-Barcelona_passing_network.jpg" alt="Red de pases Barcelona">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tiki-taka.svg/800px-Tiki-taka.svg.png" alt="Tiki-taka">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pressing_football_diagram.svg/800px-Pressing_football_diagram.svg.png" alt="Presión alta">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Football_pitch_diagram.svg/800px-Football_pitch_diagram.svg.png" alt="Campo táctico">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Football_Formation_4-3-3.svg/800px-Football_Formation_4-3-3.svg.png" alt="Formación 4-3-3">
     </div>
 </section>
 
@@ -75,4 +135,3 @@ Tácticas de juego del FC Barcelona
 
 </body>
 </html>
-
