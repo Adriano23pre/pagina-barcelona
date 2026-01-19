@@ -86,7 +86,7 @@
         El FC Barcelona se ha caracterizado por un estilo de juego basado en la posesión del balón,
         el pase corto y el movimiento constante de sus jugadores.
     </p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Camp_Nou_aerial_%28cropped%29.jpg">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIdVf_95z1ubDEmt2BmjfhWTbZGX130jvyQ&s">
 </section>
 
 <section id="principios">
@@ -97,7 +97,7 @@
         <li>Salida de balón desde defensa</li>
         <li>Control del ritmo del partido</li>
     </ul>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/FC_Barcelona_team_2011.jpg">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplHdmar9sp8TKMMwOP-q5rkemgU13achH0A&s">
 </section>
 
 <section id="sistema">
@@ -106,19 +106,19 @@
         El sistema 4-3-3 permite dominar el mediocampo, mantener amplitud ofensiva
         y equilibrio defensivo.
     </p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Football_Formation_4-3-3.svg">
+    <img src="https://themastermindsite.com/wp-content/uploads/2019/02/4-3-3.jpg?w=1040">
 </section>
 
 <section id="galeria">
     <h2>Galería del FC Barcelona</h2>
 
     <div class="galeria">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FC_Barcelona_badge.svg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/La_Masia_training.jpg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Tiki-taka.svg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Pressing_football_diagram.svg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Football_pitch_diagram.svg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Barcelona_passing_network.jpg">
+        <img src="https://toppng.com/uploads/preview/fc-barcelona-logo-png-transparent-background-photoshop-11659650429hjyvacz7df.png">
+        <img src="https://www.fcbarcelona.com/photo-resources/2025/09/26/5ba51b67-3d38-4b0e-b2b6-5027361e6729/WINTER-CAMP-DAY-1-141.jpg?width=1200&height=750">
+        <img src="https://91360co.wordpress.com/wp-content/uploads/2014/07/f5dde-tikitaka.png">
+        <img src="https://com.spielverlagerung.de/wp-content/uploads/sites/2/2017/03/pressing5-e1488678426925.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Football_pitch_small.png">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPC7gf_x81k4gnIgLv-RVpZdyPc0tbYk9r7Q&s">
     </div>
 </section>
 
@@ -128,3 +128,5 @@
 
 </body>
 </html>
+
+
